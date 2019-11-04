@@ -12,5 +12,7 @@ Right now am like we take it as it comes I have not used R so intensely as i hav
 
 GitHub Repository: https://github.com/akbarj/IODS-project.  
 
-I have tried to make corrections to the diary page it is not working, for example, the two asterisks I used to initiate bold headers did not work, the corrections I made to the text did not reflect.
+I have tried to make corrections to the diary page it is not working, for example, the two asterisks I used to initiate bold headers did not work, the corrections I made to the text did not reflect.  
+
+I go it now :-), I did not work on the index page!!
 

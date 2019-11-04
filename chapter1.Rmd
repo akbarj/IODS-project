@@ -1,4 +1,14 @@
 
-# About the project
+# **About the course/project.**
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+
+making sense (science) of data through open source methods. Sense is made out of  is made of data that is open using methods that are open.  
+
+I look forward to acquiring new skills in the course although I know for sure it is not an easy task to achieve I am even a bit scared.  
+
+If I remember correctly I heard about the course in Yammer.  
+
+Right now am like we take it as it comes I have not used R so intensely as i have done with the first two practice, took some time and cracking of brain but not too bad.  
+
+GitHub Repository: https://github.com/akbarj/IODS-project  
+

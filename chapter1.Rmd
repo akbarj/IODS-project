@@ -10,5 +10,7 @@ If I remember correctly I heard about the course in Yammer.
 
 Right now am like we take it as it comes I have not used R so intensely as i have done with the first two practice, took some time and cracking of brain but not too bad.  
 
-GitHub Repository: https://github.com/akbarj/IODS-project  
+GitHub Repository: https://github.com/akbarj/IODS-project.  
+
+I have tried to make corrections to the diary page it is not working, for example, the two asterisks I used to initiate bold headers did not work, the corrections I made to the text did not reflect.
 
